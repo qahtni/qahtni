@@ -1,4 +1,26 @@
-## saudi up up!
+### Abdulrahman Alqahtani
+
+Computer Science student at Prince Sattam Bin Abdulaziz University.
+
+## Education
+- **Computer Science** - Prince Sattam Bin Abdulaziz University (2021-2025)
+
+## Experience
+- **AI Data Trainer** at Outlier (Dec 2024 - Present)
+  - Reviewing and refining AI-generated content in English and Arabic
+
+## Skills
+- **Technical:** JavaScript, Java, SQL, HTML/CSS, Dart, Flutter
+- **Tools:** Microsoft Office 365
+- **Languages:** Arabic (Native), English (Almost Native)
+
+## Projects
+- **QR Code-Based Attendance System** - Final year university project
+
+## Contact
+- **Email:** a_qahtni@hotmail.com
+- **Phone:** +966541424837
+- **Location:** Riyadh, Saudi Arabia
 
 <!--
 **qahtni/qahtni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
