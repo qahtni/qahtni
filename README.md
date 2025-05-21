@@ -1,6 +1,6 @@
 ### Abdulrahman Alqahtani
 
-Computer Science student at Prince Sattam Bin Abdulaziz University.
+Computer Science Graduate at Prince Sattam Bin Abdulaziz University.
 
 ## Education
 - **Computer Science** - Prince Sattam Bin Abdulaziz University (2021-2025)
@@ -15,7 +15,7 @@ Computer Science student at Prince Sattam Bin Abdulaziz University.
 - **Languages:** Arabic (Native), English (Almost Native)
 
 ## Projects
-- **QR Code-Based Attendance System** - Final year university project
+- **QR Code-Based Attendance System** - Final year university project, getting it ready for public view.
 
 ## Contact
 - **Email:** a_qahtni@hotmail.com
