@@ -19,7 +19,6 @@ Computer Science Graduate at Prince Sattam Bin Abdulaziz University.
 
 ## Contact
 - **Email:** a_qahtni@hotmail.com
-- **Phone:** +966541424837
 - **Location:** Riyadh, Saudi Arabia
 
 <!--
